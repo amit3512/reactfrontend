@@ -1,0 +1,9 @@
+.App{
+  width: 90%;
+  margin: 0 auto;
+  min-height: 100vh;
+  /*background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);*/
+  background-color: lightgrey;
+  
+}
+
